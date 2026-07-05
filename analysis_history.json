@@ -1,0 +1,551 @@
+[
+  {
+    "id": "07201d8b-c343-41f5-97c4-d8242d217044",
+    "filename": "WhatsApp Audio 2026-07-05 at 6.46.18 AM.mpeg",
+    "prediction": "SAFE",
+    "confidence": 97.14,
+    "anomaly_score": 0.0286,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts. | Fraud Detection: Impersonation - Urgency/Pressure, Government Impersonation",
+    "processing_ms": 611,
+    "duration_s": 69.24,
+    "created_at": "2026-07-05T01:17:55.983693Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "High",
+      "scam_indicators": [
+        "Urgency/Pressure",
+        "Government Impersonation"
+      ],
+      "fraud_category": "Impersonation",
+      "explanation": "Detected 2 fraud indicators",
+      "combined_risk_score": 0.317144501209259
+    },
+    "transcript": "Can you verify me or whom I've written? No, I will not. I'm sorry. No, I'm not going to give you my address. If you have my file on me, you should know what my address is. Mr. Stephen, you need to understand one thingE-R-S, Street Street in Apex, North Carolina. We want to make sure we have the complete information to you about the allegations from which you can now. There are legal enforcement agencies involved in this case. So before we go ahead and give all the complete information to you, I need you to verify me with the last full digit number of social security so I can confirm that the details are given to the right"
+  },
+  {
+    "id": "9c6c96f0-8f68-4231-9a94-3377343f229c",
+    "filename": "jhansi real 1.wav",
+    "prediction": "SAFE",
+    "confidence": 98.39,
+    "anomaly_score": 0.0161,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts. | Fraud Detection: Impersonation - Government Impersonation",
+    "processing_ms": 180,
+    "duration_s": 8.6,
+    "created_at": "2026-07-05T01:16:02.710431Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "High",
+      "scam_indicators": [
+        "Government Impersonation"
+      ],
+      "fraud_category": "Impersonation",
+      "explanation": "Detected 1 fraud indicators",
+      "combined_risk_score": 0.15966378450393676
+    },
+    "transcript": "Hello, I'm Jansi. I'm currently a final year student producing my engineering at Rishi MMS Institute of Engineering and Technology."
+  },
+  {
+    "id": "05b1a3c6-1d30-4469-b4a8-de5c8a2e9da3",
+    "filename": "jhansi real 1.wav",
+    "prediction": "SAFE",
+    "confidence": 98.39,
+    "anomaly_score": 0.0161,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts. | Fraud Detection: Impersonation - Government Impersonation",
+    "processing_ms": 8495,
+    "duration_s": 8.6,
+    "created_at": "2026-07-04T23:46:37.603592Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "High",
+      "scam_indicators": [
+        "Government Impersonation"
+      ],
+      "fraud_category": "Impersonation",
+      "explanation": "Detected 1 fraud indicators",
+      "combined_risk_score": 0.15966378450393676
+    },
+    "transcript": "Hello, I'm Jansi. I'm currently a final year student producing my engineering at Rishi MMS Institute of Engineering and Technology."
+  },
+  {
+    "id": "985360c2-04d4-413d-946c-f14ce9a5cc92",
+    "filename": "ani.mp4",
+    "prediction": "AI VOICE CLONE",
+    "confidence": 100.0,
+    "anomaly_score": 1.0,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights! | Semantic: Synthetic Voice",
+    "processing_ms": 854,
+    "duration_s": 5.9,
+    "created_at": "2026-07-04T22:02:50.191570Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "High",
+      "scam_indicators": [
+        "Synthetic Voice"
+      ],
+      "fraud_category": "None",
+      "explanation": "Detected 1 fraud indicators",
+      "combined_risk_score": 0.75
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "e90fa8a2-b81d-4c85-bdfa-d8d32cd98e7c",
+    "filename": "sos.m4a",
+    "prediction": "SAFE",
+    "confidence": 95.24,
+    "anomaly_score": 0.0476,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 1410,
+    "duration_s": 61.6,
+    "created_at": "2026-07-04T22:00:44.159808Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.02854546308517456
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "19d82611-19c2-4b87-90dd-b716e61a7f89",
+    "filename": "jhansi real 1.wav",
+    "prediction": "SAFE",
+    "confidence": 98.39,
+    "anomaly_score": 0.0161,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 75,
+    "duration_s": 8.6,
+    "created_at": "2026-07-04T21:55:17.390963Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.009663784503936767
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "a4ddf7a0-b31e-4d2f-be2a-cea059850ccc",
+    "filename": "sos.m4a",
+    "prediction": "SAFE",
+    "confidence": 95.24,
+    "anomaly_score": 0.0476,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 2664,
+    "duration_s": 61.6,
+    "created_at": "2026-07-04T21:54:29.918821Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.02854546308517456
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "4713c26e-0334-4d08-b323-ab2fb88005a5",
+    "filename": "real.wav",
+    "prediction": "SAFE",
+    "confidence": 99.12,
+    "anomaly_score": 0.0088,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 362,
+    "duration_s": 61.08,
+    "created_at": "2026-07-04T21:53:56.924701Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.005291247367858886
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "dcbea0d7-036f-44a8-82e7-8241daecfc68",
+    "filename": "recording ai.wav",
+    "prediction": "AI VOICE CLONE",
+    "confidence": 99.96,
+    "anomaly_score": 0.9997,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights! | Semantic: Synthetic Voice",
+    "processing_ms": 98,
+    "duration_s": 11.56,
+    "created_at": "2026-07-04T21:40:57.953754Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "High",
+      "scam_indicators": [
+        "Synthetic Voice"
+      ],
+      "fraud_category": "None",
+      "explanation": "Detected 1 fraud indicators",
+      "combined_risk_score": 0.7497919617046136
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "ca8fed81-e601-485d-bc0d-b3347807f15b",
+    "filename": "jaiveer aud.mp3",
+    "prediction": "SAFE",
+    "confidence": 99.04,
+    "anomaly_score": 0.0096,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 110,
+    "duration_s": 16.77,
+    "created_at": "2026-07-04T21:39:12.835885Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.005772972106933593
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "46194387-1f89-4101-9612-b1a583805285",
+    "filename": "jaiveer aud.mp3",
+    "prediction": "SAFE",
+    "confidence": 99.04,
+    "anomaly_score": 0.0096,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 142,
+    "duration_s": 16.77,
+    "created_at": "2026-07-04T21:36:30.036772Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.005772972106933593
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "a87dddf1-3cec-4772-a93f-6ea421722c0f",
+    "filename": "real.wav",
+    "prediction": "SAFE",
+    "confidence": 99.12,
+    "anomaly_score": 0.0088,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 5165,
+    "duration_s": 61.08,
+    "created_at": "2026-07-04T21:36:02.859745Z",
+    "semantic_analysis": {
+      "semantic_available": false,
+      "risk_level": "Low",
+      "scam_indicators": [
+        "None detected"
+      ],
+      "fraud_category": "None",
+      "explanation": "No obvious fraud patterns detected.",
+      "combined_risk_score": 0.005291247367858886
+    },
+    "transcript": "[Audio content placeholder - install google-cloud-speech for real transcription]"
+  },
+  {
+    "id": "12bcf2ad-2237-47ed-a1ef-4c1cd4120ee2",
+    "filename": "jhansi real 1.wav",
+    "prediction": "SAFE",
+    "confidence": 98.39,
+    "anomaly_score": 0.0161,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 7791,
+    "duration_s": 8.6,
+    "created_at": "2026-07-04T12:34:44.853732Z"
+  },
+  {
+    "id": "43a617f8-e349-4d05-8a39-aad6aa5720b7",
+    "filename": "recording ai.wav",
+    "prediction": "AI VOICE CLONE",
+    "confidence": 99.96,
+    "anomaly_score": 0.9997,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 65,
+    "duration_s": 11.56,
+    "created_at": "2026-07-01T18:44:24.877632Z"
+  },
+  {
+    "id": "0b63c3b2-6689-40e5-b446-079d0a9223f4",
+    "filename": "jhansi real 1.wav",
+    "prediction": "SAFE",
+    "confidence": 98.39,
+    "anomaly_score": 0.0161,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 29,
+    "duration_s": 8.6,
+    "created_at": "2026-07-01T18:44:14.907461Z"
+  },
+  {
+    "id": "eb1a4120-ec16-4e10-a740-db3aae2b4e70",
+    "filename": "20460.wav",
+    "prediction": "SAFE",
+    "confidence": 99.59,
+    "anomaly_score": 0.0041,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 672,
+    "duration_s": 1.58,
+    "created_at": "2026-07-01T18:42:54.982227Z"
+  },
+  {
+    "id": "6208514c-c5e0-4306-95e3-fc91735723c7",
+    "filename": "20460.wav",
+    "prediction": "FRAUD",
+    "confidence": 99.59,
+    "anomaly_score": 0.9959,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 35,
+    "duration_s": 1.58,
+    "created_at": "2026-07-01T18:40:19.099741Z"
+  },
+  {
+    "id": "d2c96a35-817c-4b89-b5bf-f2968de3c897",
+    "filename": "recording ai.wav",
+    "prediction": "FRAUD",
+    "confidence": 100.0,
+    "anomaly_score": 1.0,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 207,
+    "duration_s": 11.56,
+    "created_at": "2026-07-01T18:24:18.235692Z"
+  },
+  {
+    "id": "18313854-0486-474e-96ab-08a13aa506dc",
+    "filename": "recording ai.wav",
+    "prediction": "FRAUD",
+    "confidence": 100.0,
+    "anomaly_score": 1.0,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 250,
+    "duration_s": 11.56,
+    "created_at": "2026-07-01T18:19:47.608911Z"
+  },
+  {
+    "id": "9b8aed06-75fc-492d-aa1a-979ece11006c",
+    "filename": "jhansi real 1.wav",
+    "prediction": "FRAUD",
+    "confidence": 99.5,
+    "anomaly_score": 0.995,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 178,
+    "duration_s": 8.6,
+    "created_at": "2026-07-01T18:19:30.090826Z"
+  },
+  {
+    "id": "a2ae4fb6-0fa9-4720-8800-63671ad1df15",
+    "filename": "jhansi real 1.wav",
+    "prediction": "FRAUD",
+    "confidence": 99.5,
+    "anomaly_score": 0.995,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 165,
+    "duration_s": 8.6,
+    "created_at": "2026-07-01T18:17:28.321915Z"
+  },
+  {
+    "id": "f8ec2188-b8ae-45e8-b9c5-68b5917ace43",
+    "filename": "recording ai.wav",
+    "prediction": "FRAUD",
+    "confidence": 100.0,
+    "anomaly_score": 1.0,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 214,
+    "duration_s": 11.56,
+    "created_at": "2026-07-01T17:55:31.077375Z"
+  },
+  {
+    "id": "dccc4047-dec7-497e-8725-52423b966cf1",
+    "filename": "jhansi real 1.wav",
+    "prediction": "FRAUD",
+    "confidence": 99.5,
+    "anomaly_score": 0.995,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 4970,
+    "duration_s": 8.6,
+    "created_at": "2026-07-01T17:54:59.325106Z"
+  },
+  {
+    "id": "5611702d-97ea-4587-a95e-1f8fe5c397b4",
+    "filename": "real tt.mp4",
+    "prediction": "SAFE",
+    "confidence": 98.84,
+    "anomaly_score": 0.0116,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 304,
+    "duration_s": 61.0,
+    "created_at": "2026-06-30T17:00:58.306467Z"
+  },
+  {
+    "id": "bfdbd9c8-bf45-48ac-8e9c-ef97c87a678e",
+    "filename": "real tt.mp4",
+    "prediction": "SAFE",
+    "confidence": 98.84,
+    "anomaly_score": 0.0116,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 692,
+    "duration_s": 61.0,
+    "created_at": "2026-06-30T16:40:19.543294Z"
+  },
+  {
+    "id": "e23a24cf-092f-479f-887b-038579eaaa6f",
+    "filename": "jaiveer aud.mp3",
+    "prediction": "SAFE",
+    "confidence": 99.62,
+    "anomaly_score": 0.0038,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 130,
+    "duration_s": 16.77,
+    "created_at": "2026-06-30T16:04:09.441559Z"
+  },
+  {
+    "id": "6c09e57b-de97-4d00-8112-3f4d2a492eb6",
+    "filename": "1153.wav",
+    "prediction": "SAFE",
+    "confidence": 99.96,
+    "anomaly_score": 0.0004,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 45,
+    "duration_s": 2.09,
+    "created_at": "2026-06-30T16:03:54.430717Z"
+  },
+  {
+    "id": "a7580ecf-2553-40f9-9e83-e4b92edca92a",
+    "filename": "614.wav",
+    "prediction": "VOICE CHANGER",
+    "confidence": 89.63,
+    "anomaly_score": 0.8963,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 60,
+    "duration_s": 6.41,
+    "created_at": "2026-06-30T16:03:34.838729Z"
+  },
+  {
+    "id": "ad6d9873-8300-42a0-a8e6-3bdf1538cbc6",
+    "filename": "1120.wav",
+    "prediction": "SAFE",
+    "confidence": 99.95,
+    "anomaly_score": 0.0005,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 35,
+    "duration_s": 0.7,
+    "created_at": "2026-06-30T16:02:23.416592Z"
+  },
+  {
+    "id": "1665ffa8-750c-4d5a-9e13-27d734360155",
+    "filename": "10.wav",
+    "prediction": "VOICE CHANGER",
+    "confidence": 82.53,
+    "anomaly_score": 0.8253,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 53,
+    "duration_s": 8.3,
+    "created_at": "2026-06-30T16:01:57.452839Z"
+  },
+  {
+    "id": "c3a5554f-8733-4f25-8779-5d4b835955d3",
+    "filename": "recording ai.wav",
+    "prediction": "FRAUD",
+    "confidence": 96.94,
+    "anomaly_score": 0.9694,
+    "verdict": "CRITICAL SECURITY MISMATCH",
+    "category": "AI Voice Clone / Deepfake Replica",
+    "explanation": "ALERT: Synthetic voice clone footprint identified by trained network weights!",
+    "processing_ms": 54,
+    "duration_s": 11.56,
+    "created_at": "2026-06-30T16:00:58.573400Z"
+  },
+  {
+    "id": "faeaa85d-92e5-43bd-84bd-39c58e3a07ba",
+    "filename": "jhansi real 1.wav",
+    "prediction": "SAFE",
+    "confidence": 99.72,
+    "anomaly_score": 0.0028,
+    "verdict": "VERIFIED SAFE",
+    "category": "Verified Clean User",
+    "explanation": "ALLOW AUDIO ROUTE STREAM: Audio wave structures match biological vocal tracts.",
+    "processing_ms": 4236,
+    "duration_s": 8.6,
+    "created_at": "2026-06-30T16:00:40.506719Z"
+  }
+]
